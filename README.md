@@ -4,8 +4,8 @@
 <h2>Technologies Used</h2>
 <ul>
   <li><strong>Website Development:</strong> Built using PHP.</li>
-  <li><strong>Database Management:</strong> Managed with PHPMyAdmin.</li>
-  <li><strong>Server:</strong> Hosted on an XAMPP server.</li>
+  <li><strong>Language used for database:</strong> SQL.</li>
+  <li><strong>Local development server:</strong> XAMPP.</li>
 </ul>
 
 <h2>Key Features</h2>
