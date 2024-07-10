@@ -1,7 +1,4 @@
 # LushCore
-
-<h1>LushCore</h1>
-
 <p>LushCore is an online plant shop offering a wide variety of beautiful plants and creative flowerpots. The shop features a diverse selection of plants to suit every taste and space.</p>
 
 <h2>Technologies Used</h2>
