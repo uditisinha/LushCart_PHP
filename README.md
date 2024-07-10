@@ -21,4 +21,4 @@
 </ul>
 
 <h2>Working demo of the project:</h2>
-https://github.com/uditisinha/LushCore/assets/123114215/33aa1f10-20a9-4aac-ba79-1a1d7fc8b598
+<video src="https://github.com/uditisinha/LushCore/assets/123114215/33aa1f10-20a9-4aac-ba79-1a1d7fc8b598"/>
