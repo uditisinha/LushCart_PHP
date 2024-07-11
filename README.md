@@ -4,7 +4,7 @@
 <h2>Technologies Used</h2>
 <ul>
   <li><strong>Website Development:</strong> Built using PHP.</li>
-  <li><strong>Language used for database:</strong> SQL.</li>
+  <li><strong>Database:</strong> MySQL.</li>
   <li><strong>Local development server:</strong> XAMPP.</li>
 </ul>
 
