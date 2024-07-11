@@ -21,7 +21,7 @@
 </ul>
 
 <h2>ER diagram of the project:</h2>
-https://github.com/uditisinha/LushCore/assets/123114215/73f2b63c-5b92-4caf-b4a0-86e018620b1a
+<image src = "https://github.com/uditisinha/LushCore/assets/123114215/73f2b63c-5b92-4caf-b4a0-86e018620b1a" />
 
 <h2>Working demo of the project:</h2>
 <video src="https://github.com/uditisinha/LushCore/assets/123114215/33aa1f10-20a9-4aac-ba79-1a1d7fc8b598"/>
