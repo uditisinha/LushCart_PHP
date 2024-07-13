@@ -20,6 +20,11 @@
   <li><strong>Review System:</strong> Review items you've ordered but haven't reviewed yet.</li>
 </ul>
 
+<h2>ER diagram of the project:</h2>
+<image src = "https://github.com/uditisinha/LushCore/assets/123114215/73f2b63c-5b92-4caf-b4a0-86e018620b1a" />
+
+Working demo of the project:
+<video src="https://github.com/uditisinha/LushCore/assets/123114215/33aa1f10-20a9-4aac-ba79-1a1d7fc8b598" control height="320" width="240"/>
 <h2>Details of every page:</h2>
 <h3>Register</h3>
 <p>User has to input their name, email, address and password for registering. The data inputted is cleaned and then inserted in the table 'users'. The primary key is the email. The data is inserted using the query "INSERT INTO users (name, email, address, password) VALUES ('$escaped_name', '$escaped_email', $escaped_address','$hashed_password')". If an already existing user tries to register again, they are notified that they have already registered.</p>
@@ -39,9 +44,3 @@
 <p>If the logged in user is the admin, then this page can be visited. The admin can add items in the 'shop' table from this page using "INSERT INTO shop(item_name, item_image, item_price, plant_type, item_desc) VALUES('$item_name', '$item_image', '$item_price', '$plant_type', '$item_desc');"</p>
 <h3>Logout</h3>
 <p>Upon clicking the logout button on the navigation bar, the user's sesion is destroyed using 'session_destroy()' and they are redirected to login page.</p>
-
-<h2>ER diagram of the project:</h2>
-<image src = "https://github.com/uditisinha/LushCore/assets/123114215/73f2b63c-5b92-4caf-b4a0-86e018620b1a" />
-
-<h2>Working demo of the project:</h2>
-<video src="https://github.com/uditisinha/LushCore/assets/123114215/33aa1f10-20a9-4aac-ba79-1a1d7fc8b598"/>
