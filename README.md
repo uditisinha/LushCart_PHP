@@ -1,14 +1,14 @@
 # LushCart
 <p>LushCart is an online plant shop offering a wide variety of beautiful plants and creative flowerpots. The shop features a diverse selection of plants to suit every taste and space.</p>
 
-<h2>Technologies Used:</h2>
+<h2>Technologies used:</h2>
 <ul>
   <li><strong>Website Development:</strong> Built using PHP.</li>
   <li><strong>Database:</strong> MySQL.</li>
   <li><strong>Local development server:</strong> XAMPP.</li>
 </ul>
 
-<h2>Key Features of the website:</h2>
+<h2>Key features of the website:</h2>
 <ul>
   <li><strong>User Authentication:</strong> Secure login with email ID and password.</li>
   <li><strong>Registration:</strong> Easy sign-up process requiring your name, email ID, address, and password.</li>
